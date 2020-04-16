@@ -1,2 +1,2 @@
 # kafka_learning
-A repository to learn Apache Kafka
+Learning Apache Kafka at https://www.udemy.com/course/apache-kafka/
